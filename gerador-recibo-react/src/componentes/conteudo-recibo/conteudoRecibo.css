@@ -1,0 +1,47 @@
+.conteudoRecibo{
+    padding-left: 50px;
+}
+
+.somenteNumeros{
+    font-size: 12px;
+    margin-top: 0%;
+}
+
+.somenteNumeros2{
+    font-size: 12px;
+    margin-top: 0%;
+    margin-left: 30.5%;
+}
+
+.cidade{
+    display: inline-block;
+}
+
+.data{
+    padding-left: 20px;
+    display: inline-block;
+}
+.nomdEmissor{
+    display: inline-block;
+}
+
+.docEmissor{
+    padding-left: 20px;
+    display: inline-block;
+}
+
+.submit{
+    background-color: rgb(76, 136, 228);
+}
+
+span{
+    font-weight: 100;
+    color: white;
+    font-size: large;
+}
+
+p{
+    font-size: 20px;
+    font-family: serif;
+}
+

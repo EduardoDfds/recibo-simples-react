@@ -1,4 +1,12 @@
 .bodyRecibo{
     margin-top: 2px;
-    border: solid 2px black;
+    border: solid 1px black;
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #ffffff;
+}
+
+h3{
+    text-align: center;
 }

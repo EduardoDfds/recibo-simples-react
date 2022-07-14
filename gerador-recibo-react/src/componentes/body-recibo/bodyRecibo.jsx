@@ -11,8 +11,8 @@ class BodyRecibo extends React.Component {
         return (
         <div className="bodyRecibo">
             <div>
-                <ConteudoRecibo/>
                 <h3>Recibo Simples</h3>
+                <ConteudoRecibo/>
             </div>
         </div> );
     }
